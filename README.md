@@ -11,4 +11,4 @@
 ### Solution #3: 
 <p>Use my own algorithm and the output from Solution #2 to pick out the most common animal. This is useful for figuring out what species of animals is the MOST common in a given ecosystem. In most ecosystems, there tend to be many more prey than predators. Using this algorithm, if we find that a predator is very "popular" it might show that a certain species is overpopulated.</p>
 
-## [Medium Blog Post]()
+## [Medium Blog Post](https://medium.com/@subal.pant/graph-theory-with-food-webs-35047f1e1aa5)
